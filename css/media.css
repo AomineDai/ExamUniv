@@ -1,0 +1,17 @@
+@media (max-width: 600px){
+    .current__content {
+        font-size: 16px;
+      }
+      .current__content #main-temp {
+        font-size: 12px;
+      }
+      .current__content {
+        font-size: 10px;
+      }
+      .hourly__weather--table {
+        font-size: 10px;
+      }
+      .nearby__weather--cities{
+        font-size: 10px;
+      }
+}
